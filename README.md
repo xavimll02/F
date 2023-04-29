@@ -1,2 +1,4 @@
-# F
-Física
+# F: Física
+## Continguts:
+* Laboratori
+* Apunts
